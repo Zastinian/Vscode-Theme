@@ -2,7 +2,7 @@
   "name": "esmile-theme",
   "displayName": "Esmile Vscode Theme",
   "description": "Esmile Vscode Theme",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "engines": {
     "vscode": "^1.69.0"
   },
@@ -18,7 +18,16 @@
       }
     ]
   },
+  "icon": "https://cdn.discordapp.com/attachments/851919671878746112/906292985493348402/logo.png",
   "author": "contact@mresmile.com",
   "license": "MIT",
-  "publisher": "Zastinian"
+  "publisher": "Zastinian",
+  "bugs": {
+    "url": "https://github.com/Zastinian/Vscode-Theme/issues"
+  },
+  "homepage": "https://github.com/Zastinian/Vscode-Theme#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zastinian/Vscode-Theme.git"
+  }
 }
