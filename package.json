@@ -1,0 +1,24 @@
+{
+  "name": "esmile-theme",
+  "displayName": "Esmile Vscode Theme",
+  "description": "Esmile Vscode Theme",
+  "version": "0.0.5",
+  "engines": {
+    "vscode": "^1.69.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Esmile Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Esmile Theme-color-theme.json"
+      }
+    ]
+  },
+  "author": "contact@mresmile.com",
+  "license": "MIT",
+  "publisher": "Zastinian"
+}
