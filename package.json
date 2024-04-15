@@ -1,8 +1,8 @@
 {
-  "name": "esmile-theme",
-  "displayName": "Esmile Theme",
-  "description": "Esmile Vscode Theme",
-  "version": "0.0.8",
+  "name": "hedystia-theme",
+  "displayName": "Hedystia Theme",
+  "description": "Hedystia Vscode Theme",
+  "version": "0.0.9",
   "engines": {
     "vscode": "^1.69.0"
   },
@@ -12,14 +12,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Esmile Theme",
+        "label": "Hedystia Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/Esmile Theme-color-theme.json"
+        "path": "./themes/Hedystia Theme-color-theme.json"
       }
     ]
   },
   "icon": "images/icon.png",
-  "author": "contact@mresmile.com",
+  "author": "contact@hedystia.com",
   "license": "MIT",
   "publisher": "Zastinian",
   "bugs": {
